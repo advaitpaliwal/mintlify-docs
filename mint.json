@@ -7,18 +7,18 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#42326E",
-    "light": "#B29CE4",
-    "dark": "#42326E",
+    "primary": "#000000",
+    "light": "#ffffff",
+    "dark": "#000000",
     "anchors": {
-        "from": "#42326E",
-        "to": "#B29CE4"
+        "from": "#ffffff",
+        "to": "#000000"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:advait@reminisc.ai"
     }
   ],
   "topbarCtaButton": {
