@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://app.reminisc.ai"
   },
   "tabs": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://reminisc.ai/docs"
     },
     {
       "name": "Community",
